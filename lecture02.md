@@ -8,7 +8,22 @@
  1.Github上にリポジトリを作成してからcloneする（git push で利用可能な設定を済ませたリポジトリがローカルに出来上がる）  
  2.ローカル上にリポジトリを作成してから、Github上でリポジトリを作成し、そのアドレスをローカル側で git remote add (Githubへpushできるように）する  
 
-2.ユーザー名とメールアドレスの登録  
-3.ブランチの作成  
-4.Makdownでの記入  
-5.プルリクエストの発行
+## Markdown  
+* HTML(Webページを表示させる言語）が使えなくても、簡単な記号の修飾で同じような見た目が実現（スタイリング）できるようにしたもの。  
+
+## Github Tips  
+* Issue = プロジェクトにおける課題（改善、実装が必要なこと）、修正点を記録しておく場所　  
+
+## 課題 
+* 初期設定  
+1.新規リポジトリのデフォルトブランチ名をmainに変更  
+(git config --global init.defaultBranch main)  
+
+  2.ユーザー名とメールアドレスの登録  
+(git config --global user.name "ユーザー名")  
+(git config --global suer.email "メールアドレス"）  
+
+  3.ブランチの作成 
+Github上で作成。（lecture02.md)へMarkdownを使用し講義での学びを記入、pushまで。    
+
+  5.プルリクエストの発行
