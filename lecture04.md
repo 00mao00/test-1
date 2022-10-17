@@ -90,4 +90,5 @@
 * RDSへ接続  
 `mysql -u admin -p -h ******.******.ap-northeast-1.rds.amazonaws.com`  
 【接続完了】  
-![写真]
+![写真](https://i.imgur.com/J1TTS16.jpeg)
+![写真](https://i.imgur.com/zCvU9Yp.jpg)
